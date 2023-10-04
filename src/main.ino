@@ -8,8 +8,8 @@
 #define BUZZER_PIN 2      // Connect the piezo buzzer to this GPIO pin.
 #define CLICK_DURATION 10 // Duration in milliseconds.
 
-const char *ssid = "PLUSNET-MWC9Q2";
-const char *password = "4NyMeXtNcQ6rqP";
+const char *ssid = "[SSID]";
+const char *password = "[PASSWD]";
 
 WebSocketsClient webSocket;
 
